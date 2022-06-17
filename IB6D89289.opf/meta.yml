@@ -1,0 +1,31 @@
+id: IB6D89289
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T11:26:49.095012'
+last_modified: '2022-06-17T11:26:49.095029'
+parser: null
+source_metadata:
+  title: Chetsün Nyingtik
+  language: en
+  description: 'Texts related to Chetsün Nyingtik (lce btsun snying thig), the Heart-Essence
+    of Chetsün, which belongs to the category of recollection or reminiscence (rjes
+    dran) among Jamyang Khyentse Wangpo''s seven authoritative transmissions:'
+  volume:
+    fD907:
+      title: Prayer to the Lineage of the Great Chetsün’s Profound Essence of Vimala
+      base_file: fD907.txt
+      order: 1
+      parent: Lineage Prayers
+    fC664:
+      title: Prayer to the Lineage of the Great Chetsün’s Profound Essence of Vimala
+      base_file: fC664.txt
+      order: 2
+      parent: Lineage Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
